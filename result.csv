@@ -1,0 +1,81 @@
+mode,seed,volatility,average_retention
+No Load Balancer,0,0.139,0.885
+No Load Balancer,1,0.142,0.886
+No Load Balancer,2,0.146,0.886
+No Load Balancer,3,0.131,0.888
+No Load Balancer,4,0.122,0.886
+No Load Balancer,5,0.14,0.886
+No Load Balancer,6,0.13,0.886
+No Load Balancer,7,0.153,0.884
+No Load Balancer,8,0.118,0.887
+No Load Balancer,9,0.133,0.886
+No Load Balancer,10,0.125,0.886
+No Load Balancer,11,0.125,0.886
+No Load Balancer,12,0.139,0.886
+No Load Balancer,13,0.138,0.886
+No Load Balancer,14,0.147,0.887
+No Load Balancer,15,0.124,0.887
+No Load Balancer,16,0.13,0.886
+No Load Balancer,17,0.139,0.885
+No Load Balancer,18,0.131,0.886
+No Load Balancer,19,0.127,0.887
+Simple Load Balancer,0,0.084,0.874
+Simple Load Balancer,1,0.08,0.876
+Simple Load Balancer,2,0.072,0.877
+Simple Load Balancer,3,0.08,0.876
+Simple Load Balancer,4,0.086,0.875
+Simple Load Balancer,5,0.072,0.876
+Simple Load Balancer,6,0.086,0.876
+Simple Load Balancer,7,0.078,0.876
+Simple Load Balancer,8,0.091,0.876
+Simple Load Balancer,9,0.09,0.876
+Simple Load Balancer,10,0.082,0.875
+Simple Load Balancer,11,0.077,0.877
+Simple Load Balancer,12,0.082,0.876
+Simple Load Balancer,13,0.082,0.875
+Simple Load Balancer,14,0.079,0.875
+Simple Load Balancer,15,0.076,0.876
+Simple Load Balancer,16,0.079,0.874
+Simple Load Balancer,17,0.091,0.875
+Simple Load Balancer,18,0.077,0.877
+Simple Load Balancer,19,0.082,0.875
+Weighted Random Load Balancer,0,0.1,0.886
+Weighted Random Load Balancer,1,0.12,0.886
+Weighted Random Load Balancer,2,0.103,0.885
+Weighted Random Load Balancer,3,0.1,0.885
+Weighted Random Load Balancer,4,0.112,0.885
+Weighted Random Load Balancer,5,0.108,0.885
+Weighted Random Load Balancer,6,0.111,0.886
+Weighted Random Load Balancer,7,0.1,0.886
+Weighted Random Load Balancer,8,0.101,0.885
+Weighted Random Load Balancer,9,0.118,0.885
+Weighted Random Load Balancer,10,0.095,0.885
+Weighted Random Load Balancer,11,0.107,0.885
+Weighted Random Load Balancer,12,0.116,0.885
+Weighted Random Load Balancer,13,0.117,0.884
+Weighted Random Load Balancer,14,0.11,0.886
+Weighted Random Load Balancer,15,0.104,0.883
+Weighted Random Load Balancer,16,0.107,0.885
+Weighted Random Load Balancer,17,0.107,0.885
+Weighted Random Load Balancer,18,0.125,0.886
+Weighted Random Load Balancer,19,0.086,0.885
+Restricted Weighted Random Load Balancer,0,0.101,0.878
+Restricted Weighted Random Load Balancer,1,0.086,0.878
+Restricted Weighted Random Load Balancer,2,0.083,0.878
+Restricted Weighted Random Load Balancer,3,0.087,0.879
+Restricted Weighted Random Load Balancer,4,0.102,0.881
+Restricted Weighted Random Load Balancer,5,0.083,0.879
+Restricted Weighted Random Load Balancer,6,0.11,0.881
+Restricted Weighted Random Load Balancer,7,0.088,0.88
+Restricted Weighted Random Load Balancer,8,0.08,0.88
+Restricted Weighted Random Load Balancer,9,0.095,0.881
+Restricted Weighted Random Load Balancer,10,0.086,0.88
+Restricted Weighted Random Load Balancer,11,0.083,0.88
+Restricted Weighted Random Load Balancer,12,0.092,0.879
+Restricted Weighted Random Load Balancer,13,0.091,0.879
+Restricted Weighted Random Load Balancer,14,0.093,0.88
+Restricted Weighted Random Load Balancer,15,0.098,0.88
+Restricted Weighted Random Load Balancer,16,0.088,0.878
+Restricted Weighted Random Load Balancer,17,0.09,0.879
+Restricted Weighted Random Load Balancer,18,0.085,0.881
+Restricted Weighted Random Load Balancer,19,0.083,0.879
